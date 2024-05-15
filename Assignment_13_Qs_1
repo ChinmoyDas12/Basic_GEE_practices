@@ -1,0 +1,10 @@
+print(table)
+
+var reducedVal = table.reduceColumns({
+  selectors: ["M_TL","T_TL","ADM1_NAME"],
+  reducer: ee.Reducer.mean().repeat(2).group({
+    groupField: 2,
+    groupName: "Division"
+  })
+});
+print(reducedVal)
