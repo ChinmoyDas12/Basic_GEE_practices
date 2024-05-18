@@ -6,5 +6,5 @@ The second question is -- Use this landcover data set and calculate the sum of e
 Here contains the [answer]() & the [screenshot]()
 
 The final question is -- Make a map of your district by using QGIS. Upload the map in your github repo, share your map in our facebook group.
-Here is the [post]()
+Here is the [post](https://www.facebook.com/groups/902693884377077/permalink/1146234860022977/)
 
